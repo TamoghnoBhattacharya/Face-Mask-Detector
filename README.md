@@ -15,8 +15,8 @@ Currently, there is no efficient face mask detection applications available for 
 - [Keras](https://keras.io/)
 
 ## :file_folder: Dataset
-There are a few different datasets available for this project on the internet, I have used the one from [Prajna](https://github.com/prajnasb).
-Here is the google drive link for the dataset - [Click to Download](https://drive.google.com/drive/folders/1PruHnSocJppeW24rzrXNb8G0IWe-r9ro?usp=sharing).
+There are a few different datasets available for this project on the internet, I have used the one from <br>[Kaggle](https://www.kaggle.com/ashishjangra27/face-mask-12k-images-dataset).
+But we will be modifying it as per our convinience so as to add some noise in the data along with some corrections like bearded faces and people wearing glasses. 
 
 ## :handshake: Contribution Guidelines
 
